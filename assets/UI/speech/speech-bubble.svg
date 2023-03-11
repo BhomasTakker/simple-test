@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 957.77 229.75">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-
-      .cls-2 {
-        isolation: isolate;
-        opacity: .05;
-      }
-    </style>
-  </defs>
-  <path class="cls-2" d="m88.26,90.17L0,115.72l107.25,32.21,8.84,81.82,831.68-4.66V10c-125.87-.07-251.73,20.17-377.59,20.71-115.25.5-372.78-6.66-488.04-5.65l6.11,65.11h0Z"/>
-  <path class="cls-1" d="m98.26,80.17L10,105.72l107.25,32.21,8.84,81.82,831.68-4.66V0S207.41,14.05,92.15,15.06c0,0,6.11,65.11,6.11,65.11Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 957.8 229.8" style="enable-background:new 0 0 957.8 229.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.36;}
+	.st1{opacity:5.000000e-02;enable-background:new    ;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g class="st0">
+	<path class="st1" d="M99.7,163.3L47,187l59.8,13.2l5.5,29.2l834.7-4.7V9.6C821.1,9.6,695.2,29.8,569.4,30.3
+		c-115.2,0.5-372.8-6.7-488-5.6L99.7,163.3L99.7,163.3L99.7,163.3z"/>
+	<path class="st2" d="M109.7,153.3L57,177l59.8,13.2l5.5,29.2l834.7-4.7V-0.4c0,0-750.4,14.1-865.6,15.1L109.7,153.3z"/>
+</g>
 </svg>
